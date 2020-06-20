@@ -49,9 +49,20 @@
   
 
   
+      ,"page3": {
+          "title": "Datasets",
+          "content": "",
+          "url": "https://itskarthicklakshmanan.github.io/kalanai/datasets/",
+          "relUrl": "/datasets/",
+          "date": ""
+      }
+      
+  
 
   
-      ,"page4": {
+
+  
+      ,"page5": {
           "title": "Useful Links",
           "content": "##Python The Entire Python Language in a Single Image Webpage, GitHub .",
           "url": "https://itskarthicklakshmanan.github.io/kalanai/links/",
@@ -81,7 +92,7 @@
   
 
   
-      ,"page12": {
+      ,"page13": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://itskarthicklakshmanan.github.io/kalanai/robots.txt",
