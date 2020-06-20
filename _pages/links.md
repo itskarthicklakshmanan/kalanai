@@ -4,10 +4,6 @@ title: Useful Links
 permalink: /links/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+##Python
+The Entire Python Language in a Single Image [Webpage](https://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/amp/?__twitter_impression=true), [GitHub](https://github.com/coodict/python3-in-one-pic)
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
