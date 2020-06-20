@@ -40,17 +40,6 @@
   
       ,"page2": {
           "title": "Datasets",
-          "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
-          "url": "https://itskarthicklakshmanan.github.io/kalanai/datasets/",
-          "relUrl": "/datasets/",
-          "date": ""
-      }
-      
-  
-
-  
-      ,"page3": {
-          "title": "Datasets",
           "content": "",
           "url": "https://itskarthicklakshmanan.github.io/kalanai/datasets/",
           "relUrl": "/datasets/",
@@ -62,7 +51,7 @@
   
 
   
-      ,"page5": {
+      ,"page4": {
           "title": "Useful Links",
           "content": "##Python The Entire Python Language in a Single Image Webpage, GitHub .",
           "url": "https://itskarthicklakshmanan.github.io/kalanai/links/",
@@ -92,7 +81,7 @@
   
 
   
-      ,"page13": {
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://itskarthicklakshmanan.github.io/kalanai/robots.txt",
